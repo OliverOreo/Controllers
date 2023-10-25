@@ -1,4 +1,4 @@
-# The controller code coresponding to the manuscript submitted to Tmech
+# The controller code corresponding to the manuscript accepted by TMech
 
 NOTE: For access to the controller code, please contact Xiangyu Wang at wangxyu@nankai.edu.cn for the academic license.
 
